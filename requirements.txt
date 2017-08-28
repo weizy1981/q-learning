@@ -1,0 +1,7 @@
+IBMQuantumExperience
+requests
+networkx
+ply
+numpy
+scipy
+matplotlib
